@@ -32,6 +32,7 @@ h1{
         height: 2em;
         margin: 2em;
         all: inline;
+        opacity: 0,5;
 }
 
 ul > li{
